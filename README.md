@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MindCart SA - South African Grocery Price Comparison
 
 A modern React application that compares grocery prices across South African retailers (Checkers, Pick n Pay, Woolworths) to help consumers find the best deals and save money on their shopping.
@@ -281,3 +282,7 @@ For support, email support@mindcart.co.za or create an issue in this repository.
 ---
 
 **Built with ❤️ for South African consumers**
+=======
+# MindCart-SA
+MindCart SA is a South African grocery price comparison platform that helps users find the cheapest deals across major retailers like Checkers, Pick n Pay, and Woolworths. It features a smart cart calculator, store-to-store price comparisons, and a visual savings dashboard ,all in a clean, mobile-friendly UI.
+>>>>>>> c9f570cbdc7583946dc024f2b560889c127a01c5
