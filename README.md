@@ -1,4 +1,4 @@
-# MindCart - South African Grocery Price Comparison
+# MindCart SA - South African Grocery Price Comparison
 
 A modern React application that compares grocery prices across South African retailers (Checkers, Pick n Pay, Woolworths) to help consumers find the best deals and save money on their shopping.
 
@@ -45,8 +45,8 @@ A modern React application that compares grocery prices across South African ret
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/mindcart.git
-   cd mindcart
+   git clone https://github.com/your-username/MindCart-SA.git
+   cd MindCart-SA
    ```
 
 2. **Install dependencies**
