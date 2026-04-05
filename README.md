@@ -13,7 +13,7 @@ A modern React application that compares grocery prices across South African ret
 - **Store Integration**: Direct integration with store APIs
 - **Deal Tracking**: Track price history and savings over time
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Frontend
 - **React 18** with functional components and hooks
@@ -87,24 +87,6 @@ The application integrates with store APIs to fetch real-time pricing data:
 const products = await fetchProductPrices('bananas');
 ```
 
-### Mock Data
-For development, the app includes mock data that simulates real store responses.
-
-## 🎨 Design System
-
-### Color Palette
-- **Navy**: Primary brand color (#1e3a8a)
-- **Gold**: Accent color (#f59e0b)
-- **White**: Background and text (#ffffff)
-
-### Typography
-- **Headers**: Playfair Display (serif)
-- **Body**: Inter (sans-serif)
-
-### Components
-- Reusable React components with consistent styling
-- Responsive design patterns
-- Accessibility-first approach
 
 ## 📁 Project Structure
 
